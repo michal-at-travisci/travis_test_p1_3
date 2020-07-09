@@ -1,8 +1,6 @@
 os: linux
 dist: focal
 arch: arm64-graviton2
-group: dev
-virt: lxd
 
 jobs:
   include:
